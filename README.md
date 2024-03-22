@@ -1,6 +1,6 @@
 - 👋 Hello there, I'm @SergejRuff.
 
-- 👀 My interests span statistics, bioinformatics, data science, video games, reading, and fitness.
+- 👀 My interests are statistics, bioinformatics, data science, video games, reading, and fitness.
 
 - 🌱 Currently, I'm delving into the realms of machine learning/AI and transcriptomics, with a focus on single-cell analysis.
 
