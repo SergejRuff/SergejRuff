@@ -15,11 +15,8 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 
 
 
-## Connect with Me:
-
-- **Instagram**: sergej_ruff
-- **Twitter**: @SirSerij
-- **Email**: serijnh@gmail.com
+## 🌐 Connect with Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sergej_ruff) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SirSerij) [![Gmail](https://img.shields.io/badge/Email-%23D14836.svg?logo=Gmail&logoColor=white)](serijnh@gmail.com)
 
 Let's chat!
 
