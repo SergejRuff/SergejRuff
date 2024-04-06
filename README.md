@@ -40,7 +40,7 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 
 ## 🏆 Accomplishments
 
-- Co-developed my first R package: [![RepeatedHighDim Version 2.2.0](https://img.shields.io/badge/RepeatedHighDim%20Version%202.2.0-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
+- **June 2023**: Co-developed my first R package: [![RepeatedHighDim Version 2.2.0](https://img.shields.io/badge/RepeatedHighDim%20Version%202.2.0-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
 
 
 
