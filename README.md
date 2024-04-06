@@ -16,7 +16,7 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 ## 🏆 Accomplishments
 
 - **15 September 2022**: Completed Bachelor Thesis titled "Evaluation of Resampling Methods for the Analysis of Single-cell RNA-seq Data" at University of Veterinary Medicine Hannover.
-- **January 2023 - June 2024**: Student Assistant -> 'Genomics and Bioinformatics of Infectious Diseases' group at the University of Veterinary Medicine Hannover, led by Prof. Dr. Klaus Jung [[www.klausjung-lab.de](http://www.klausjung-lab.de)].
+- **January 2023 - 2024**: Student Assistant -> 'Genomics and Bioinformatics of Infectious Diseases' group at the University of Veterinary Medicine Hannover, led by Prof. Dr. Klaus Jung [[www.klausjung-lab.de](http://www.klausjung-lab.de)].
 - **June 2023**: Co-developed my first R package: [![RepeatedHighDim Version 2.2.0](https://img.shields.io/badge/RepeatedHighDim%20Version%202.2.0-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
 
 ## 💻 Languages:
