@@ -45,6 +45,13 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 ### 🌟 Others
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+### Distro
+
+| Ubuntu |
+|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+
+
 
 
 
