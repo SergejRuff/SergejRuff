@@ -1,6 +1,6 @@
 # Sergej Ruff
 
-** `Data Science/ Bioinformatics`**
+**`Data Science/ Bioinformatics`**
 
 - 👋 Hello there, I'm @SergejRuff.
 
