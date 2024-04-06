@@ -13,7 +13,7 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 - Completed Bachelor's degree in Biology at Leibniz Universität Hannover.
 - Master's degree in Biomedical Data Science at Medizinische Hochschule Hannover.
 
-  ## 🏆 Accomplishments
+## 🏆 Accomplishments
 
 - **15 September 2022**: Completed Bachelor Thesis titled "Evaluation of Resampling Methods for the Analysis of Single-cell RNA-seq Data" at University of Veterinary Medicine Hannover.
 - **June 2023**: Co-developed my first R package: [![RepeatedHighDim Version 2.2.0](https://img.shields.io/badge/RepeatedHighDim%20Version%202.2.0-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
