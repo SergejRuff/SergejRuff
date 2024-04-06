@@ -27,6 +27,14 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 [![RStudio Community: R Markdown](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2FR-Markdown.json)](https://community.rstudio.com/c/R-Markdown)
 [![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)
 [![data.table](https://img.shields.io/badge/data.table-%230095D5.svg?logo=R&logoColor=white)](https://github.com/Rdatatable/data.table)
+[![ggplot2](https://img.shields.io/badge/ggplot2-%23276DC3.svg?logo=R&logoColor=white)](https://github.com/tidyverse/ggplot2)
+
+#### R package development
+[![devtools](https://img.shields.io/badge/devtools-%230267D3.svg?logo=R&logoColor=white)](https://github.com/r-lib/devtools)
+[![usethis](https://img.shields.io/badge/usethis-%230267D3.svg?logo=R&logoColor=white)](https://github.com/r-lib/usethis)
+
+
+
 
 
 
