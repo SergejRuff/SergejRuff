@@ -8,7 +8,7 @@ Hi there, I'm Sergej. I'm a data scientist interested in statistics, bioinformat
 Lately, I've been diving into the exciting worlds of machine learning/AI and transcriptomics, particularly focusing on single-cell analysis.
 
 
-## Education:
+## 📚 Education:
 
 - Completed Bachelor's degree in Biology at Leibniz Universität Hannover.
 - Master's degree in Biomedical Data Science at Medizinische Hochschule Hannover.
@@ -20,10 +20,10 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 
 ## 💻 Packages and other tools:
 
-### Python
+### 🐍 Python
  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### R
+### ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  R
 [![RStudio Community: R Markdown](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2FR-Markdown.json)](https://community.rstudio.com/c/R-Markdown)
 [![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)
 [![data.table](https://img.shields.io/badge/data.table-%230095D5.svg?logo=R&logoColor=white)](https://github.com/Rdatatable/data.table)
@@ -34,15 +34,13 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 [![DESeq2](https://img.shields.io/badge/DESeq2-%2387CEEB.svg?logo=R&logoColor=white)](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 [![Seurat](https://img.shields.io/badge/Seurat-%2387CEEB.svg?logo=R&logoColor=white)](https://github.com/satijalab/seurat)
 
-### Others
+### 🌟 Others
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-## Accomplishments
+## 🏆 Accomplishments
 
-- Co-developed my first R package: [![RepeatedHighDim Version 2.2.0](https://img.shields.io/badge/RepeatedHighDim Version 2.2.0-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
-
-
+- Co-developed my first R package: [![RepeatedHighDim Version 2.2.0](https://img.shields.io/badge/RepeatedHighDim%20Version%202.2.0-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
 
 
 
