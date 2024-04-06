@@ -28,18 +28,24 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 [![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)
 [![data.table](https://img.shields.io/badge/data.table-%230095D5.svg?logo=R&logoColor=white)](https://github.com/Rdatatable/data.table)
 [![ggplot2](https://img.shields.io/badge/ggplot2-%23276DC3.svg?logo=R&logoColor=white)](https://github.com/tidyverse/ggplot2)
-
-#### R package development
 [![devtools](https://img.shields.io/badge/devtools-%230267D3.svg?logo=R&logoColor=white)](https://github.com/r-lib/devtools)
 [![usethis](https://img.shields.io/badge/usethis-%230267D3.svg?logo=R&logoColor=white)](https://github.com/r-lib/usethis)
-
-
-
-
-
+[![limma](https://img.shields.io/badge/limma-%2387CEEB.svg?logo=R&logoColor=white)](https://bioconductor.org/packages/release/bioc/html/limma.html)
+[![DESeq2](https://img.shields.io/badge/DESeq2-%2387CEEB.svg?logo=R&logoColor=white)](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
+[![Seurat](https://img.shields.io/badge/Seurat-%2387CEEB.svg?logo=R&logoColor=white)](https://github.com/satijalab/seurat)
 
 ### Others
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+## Accomplishments
+
+- Co-developed my first R package: [![RepeatedHighDim Version 2.2.0](https://img.shields.io/badge/YourPackage-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
+
+
+
+
+
 
 
 
