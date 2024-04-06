@@ -1,16 +1,20 @@
 # Sergej Ruff
 
-**`Data Science/ Bioinformatics`**
+**`Data Science/Bioinformatics`**
 
-- 👋 Hello there, I'm @SergejRuff.
 
-- 👀 My interests are statistics, bioinformatics, data science, video games, reading, and fitness.
+Hi there, I'm Sergej. I'm a data scientist interested in statistics, bioinformatics, and biology. But hey, I'm not all about crunching numbers—I'm also a gamer, a bookworm, and I love going to the gym.
 
-- 🌱 Currently, I'm delving into the realms of machine learning/AI and transcriptomics, with a focus on single-cell analysis.
+Lately, I've been diving into the exciting worlds of machine learning/AI and transcriptomics, particularly focusing on single-cell analysis.
 
-- 📫 You can find me on Instagram at sergej_ruff, on Twitter as @SirSerij, or drop me an email at serijnh@gmail.com.
+If you want to connect, you can find me on:
 
-- 😄 Pronouns: HE/HIM
+Instagram: sergej_ruff
+Twitter: @SirSerij
+Email: serijnh@gmail.com
+
+Let's chat!
+
 
 <!---
 SergejRuff/SergejRuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
