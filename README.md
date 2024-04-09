@@ -10,7 +10,7 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 
 ## 📚 Education:
 
-- **2018 - 2022**: Completed Bachelor's degree in Biology at Leibniz Universität Hannover.
+- **2018 - 2022**: Completed Bachelor's degree in Biology at Leibniz Universität Hannover. Topic: "Evaluation von Resamplingverfahren zur Analyse von Single-cell RNA-seq Daten" (Assessment of Resampling Techniques for Analysis of Single-cell RNA-seq Data).
 - **2022 - 2024**: Master's degree in Biomedical Data Science at Medizinische Hochschule Hannover.
 
 ## 🏆 Accomplishments
