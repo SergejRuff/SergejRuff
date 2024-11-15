@@ -22,6 +22,7 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 - **25th April 2024**: Release of RepeatedHighDim version 2.3, incorporating network meta-analysis of gene expression data. [![RepeatedHighDim Version 2.3.0](https://img.shields.io/badge/RepeatedHighDim%20Version%202.3.0-On_CRAN-brightgreen)](https://cran.r-project.org/web/packages/RepeatedHighDim/index.html)
 - **5th August 2024**: First co-authorship on a paper [[genes](https://www.mdpi.com/2073-4425/15/8/1030)].
 - **5th November 2024**: Virusparies version 1.0.0 (**12th November 2024**: CRAN release).
+- **14th November 2024**: lovecraftr version 1.0.0.
 
 
 
