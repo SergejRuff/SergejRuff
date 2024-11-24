@@ -8,7 +8,7 @@ Hi there, I'm Sergej. I'm a data scientist interested in statistics, bioinformat
 Lately, I've been diving into the exciting worlds of machine learning/AI and transcriptomics, particularly focusing on single-cell analysis.
 
 
-## 📚 Education:
+## 📚 Education and Experience:
 
 - **2018 - 2022**: Completed Bachelor's degree in Biology at Leibniz Universität Hannover. 
 - **2022 - 2024**: Master's degree in Biomedical Data Science at Medizinische Hochschule Hannover.
