@@ -12,6 +12,7 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 
 - **2018 - 2022**: Completed Bachelor's degree in Biology at Leibniz Universität Hannover. 
 - **2022 - 2024**: Master's degree in Biomedical Data Science at Medizinische Hochschule Hannover.
+- **1st December 2024 -**: Research Associate/PhD Candidate at the University of Veterinary Medicine Hannover (TiHo).
 
 ## 🏆 Accomplishments
 
