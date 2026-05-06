@@ -24,6 +24,8 @@ Lately, I've been diving into the exciting worlds of machine learning/AI and tra
 - **5th August 2024**: First co-authorship on a paper [[genes](https://www.mdpi.com/2073-4425/15/8/1030)].
 - **5th November 2024**: Virusparies version 1.0.0 (**12th November 2024**: CRAN release).
 - **14th November 2024**: lovecraftr version 1.0.0.
+- **21th November 2025**: Poster prize for QUASAR at 18th Gradual school day [[Tiho eLib](https://elib.tiho-hannover.de/receive/tiho_mods_00014813)].
+- **21th November 2025**: My first first-author publication [[scTrimClust](https://academic.oup.com/bioinformaticsadvances/article/6/1/vbag082/8524917)]:https://doi.org/10.1093/bioadv/vbag082.
 
 
 
